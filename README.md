@@ -27,10 +27,9 @@ A local server environment that can be used for testing purposes. Download WAMP 
 ## Installation
 
 1. **Clone the Repository**:
-    ```git clone https://github.com/YourUsername/Project_JavascriptKeylogger.git
-    cd Project_JavascriptKeylogger
-    ```
-
+```git clone https://github.com/YourUsername/Project_JavascriptKeylogger.git
+cd Project_JavascriptKeylogger
+```
 2. **Set Up Python Environment**:
 
 Ensure you have Python 3.12 installed. Set up a virtual environment and activate it:
