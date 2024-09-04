@@ -35,15 +35,15 @@ A local server environment that can be used for testing purposes. Download WAMP 
 
 Ensure you have Python 3.12 installed. Set up a virtual environment and activate it:
 
-    ```python -m venv venv
+    python -m venv venv
     source venv/bin/activate  # For Unix or MacOS
     venv\Scripts\activate     # For Windows
-    ```
+
 3. **Install Flask**:
 
 Install Flask and any other necessary Python packages:
 
-    ```pip install Flask```
+    pip install Flask
 
 4. **Set Up the Server**:
 
