@@ -28,8 +28,8 @@ A local server environment that can be used for testing purposes. Download WAMP 
 
 1. **Clone the Repository**:
 ```
-git clone https://github.com/vishal-naik-byte/Project_JavascriptKeylogger.git
-cd Project_JavascriptKeylogger
+git clone https://github.com/vishal-naik-byte/JavascriptKeylogger.git
+cd JavascriptKeylogger
 ```
 2. **Set Up Python Environment**:
 
